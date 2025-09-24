@@ -36,4 +36,4 @@ Actualmente comparto proyectos personales y académicos que reflejan mi **aprend
 - 🔍 Siempre en búsqueda de nuevos retos en el desarrollo de software.  
 - 📖 Me gusta aprender sobre **arquitecturas web, bases de datos y buenas prácticas de programación**.  
 - 🎯 Objetivo: crecer como **Desarrollador Backend** y aportar en proyectos reales.  
-- 🎮 En mi tiempo libre disfruto de estudiar explorar nuevas tecnologías. 
+- 🎮 En mi tiempo libre disfruto de estudiar y explorar nuevas tecnologías. 
