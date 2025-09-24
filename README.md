@@ -23,3 +23,17 @@
 
 ## 🔗 Proyectos  
 Actualmente comparto proyectos personales y académicos que reflejan mi **aprendizaje y evolución como programador**.
+
+## 📫 Contacto  
+
+- ✉️ Correo: **alexpabon3799@gmail.com**  
+- 💼 LinkedIn: [Alejandro Campo](www.linkedin.com/in/alejandro-campo-744622274)    
+
+---
+
+## ⚡ Sobre mí  
+
+- 🔍 Siempre en búsqueda de nuevos retos en el desarrollo de software.  
+- 📖 Me gusta aprender sobre **arquitecturas web, bases de datos y buenas prácticas de programación**.  
+- 🎯 Objetivo: crecer como **Desarrollador Backend** y aportar en proyectos reales.  
+- 🎮 En mi tiempo libre disfruto de estudiar explorar nuevas tecnologías. 
