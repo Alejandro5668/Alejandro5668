@@ -27,7 +27,7 @@ Actualmente comparto proyectos personales y académicos que reflejan mi **aprend
 ## 📫 Contacto  
 
 - ✉️ Correo: **alexpabon3799@gmail.com**  
-- 💼 LinkedIn: [Alejandro Campo](www.linkedin.com/in/alejandro-campo-744622274)    
+- 💼 LinkedIn: www.linkedin.com/in/alejandro-campo-744622274
 
 ---
 
