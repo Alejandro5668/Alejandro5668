@@ -1,191 +1,126 @@
-<div align="center">
+# 👋 ¡Hola! Soy Alejandro Campo
 
-# 💻 Alejandro Campo
+## Desarrollador Full Stack | Especialista en Angular & Spring Boot
 
-### Desarrollador Full Stack | Angular & Spring Boot Specialist
-
-*Transformando ideas en productos digitales escalables y desplegables*
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](tu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email)
-
-</div>
+Construyo soluciones web escalables que resuelven problemas reales de negocio. 
+Mi enfoque combina diseño intuitivo en el frontend con arquitecturas backend 
+robustas, contenerizadas y listas para despliegue continuo.
 
 ---
 
 ## 🚀 Sobre Mí
-```typescript
-const desarrollador = {
-    nombre: "Alejandro Campo",
-    ubicacion: "Santa Marta, Colombia 🇨🇴",
-    rol: "Full Stack Developer",
-    especialidad: "Angular + Spring Boot + DevOps",
-    
-    habilidades: {
-        frontend: ["Angular", "TypeScript", "Tailwind CSS", "RxJS"],
-        backend: ["Java", "Spring Boot", "Spring Security", "Hibernate"],
-        databases: ["PostgreSQL", "MySQL"],
-        devops: ["Docker", "CI/CD", "GitHub Actions"],
-        herramientas: ["Git", "Postman", "IntelliJ IDEA", "VS Code"]
-    },
-    
-    enfoque: "Código limpio + Arquitecturas escalables + Deploys automatizados",
-    
-    actual: {
-        aprendiendo: ["Microservicios", "Kubernetes", "AWS"],
-        trabajando_en: ["E-commerce", "Plataformas Emprendimiento"],
-        implementando: ["Docker Compose", "Pipelines CI/CD"],
-        disponible_para: ["Freelance", "Colaboraciones", "Proyectos Desafiantes"]
-    }
-};
-```
+
+Desarrollador apasionado por crear productos digitales que generan impacto tangible. 
+No solo escribo código que funciona, diseño sistemas que escalan, se mantienen y 
+se despliegan de forma eficiente en ambientes productivos.
+
+- 🔭 Actualmente trabajando en proyectos e-commerce y plataformas de emprendimiento
+- 🌱 Explorando arquitecturas de microservicios y patrones de diseño avanzados
+- 🐳 Implementando contenedores Docker y pipelines CI/CD
+- 💡 Enfocado en código limpio, buenas prácticas y desarrollo enterprise-grade
+- 📍 Ubicado en Santa Marta, Colombia
+- 💼 Disponible para proyectos freelance y colaboraciones
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## 💻 Stack Tecnológico
 
 ### Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 💼 Proyectos Destacados
-
-<table>
-<tr>
-<td width="50%">
-
-### 💎 E-Commerce Joyería
-Plataforma completa que digitalizó un negocio local
-
-**Stack:** Angular • Spring Boot • PostgreSQL • Docker
-
-- ✅ Panel admin con CRUD
-- ✅ API RESTful segura (JWT)
-- ✅ Contenerización con Docker
-- ✅ Pipeline CI/CD
-- ✅ Diseño responsive
-
-[🔗 Ver Código](#) | [🌐 Demo](#)
-
-</td>
-<td width="50%">
-
-### 🚀 Hub Emprendimientos
-Portal de visibilidad para startups universitarias
-
-**Stack:** Angular • Spring Boot • PostgreSQL • Docker
-
-- ✅ Gestión de perfiles
-- ✅ Buscador avanzado
-- ✅ Sistema de filtros
-- ✅ Dashboard admin
-- ✅ Deploy automatizado
-
-[🔗 Ver Código](#) | [🌐 Demo](#)
-
-</td>
-</tr>
-</table>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
+---
 
-## 📈 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Lo Que Me Define
-```dockerfile
-# Dockerfile de mi mentalidad como desarrollador
-FROM developer:latest
-
-# Instalar habilidades base
-RUN apt-get update && apt-get install -y \
-    clean-code \
-    solid-principles \
-    continuous-learning
-
-# Configurar ambiente de trabajo
-ENV MINDSET="nunca_dejar_de_aprender" \
-    APPROACH="escalable_y_mantenible" \
-    DEPLOY="automatizado_y_confiable"
-
-# Exponer lo que ofrezco
-EXPOSE 8080 3000
-
-# Comando principal
-CMD ["desarrollar", "--con-impacto", "--código-limpio"]
-```
-
----
-
-## 🔧 DevOps Skills
-```yaml
-# CI/CD Pipeline Philosophy
-pipeline:
-  stages:
-    - build:
-        - compile_code
-        - run_tests
-    - containerize:
-        - create_docker_image
-        - optimize_layers
-    - deploy:
-        - push_to_registry
-        - deploy_to_production
   
-  principles:
-    - "Automatizar todo lo automatizable"
-    - "Fallar rápido, corregir rápido"
-    - "Monitorear siempre"
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 📬 Contacto
+## 🎓 Especialización
+
+**Áreas de Dominio:**
+- 🏗️ Arquitectura de aplicaciones web escalables
+- 🔐 Implementación de seguridad con Spring Security y JWT
+- 📊 Diseño y optimización de bases de datos relacionales
+- 🎨 Diseño de interfaces modernas y responsive
+- 🔄 Desarrollo de APIs RESTful robustas
+- 📦 Gestión de estado y componentes reutilizables
+- 🐳 Contenerización de aplicaciones con Docker
+- 🚀 Automatización de despliegues con CI/CD
+
+**Principios que sigo:**
+- Clean Code & SOLID Principles
+- DRY (Don't Repeat Yourself)
+- Arquitectura en capas
+- Infrastructure as Code
+- Testing y documentación
+
+---
+
+## 🌟 Mi Enfoque
+
+> "No se trata solo de hacer que funcione, se trata de hacerlo bien: 
+> escalable, mantenible, desplegable y con impacto real."
+
+Cada línea de código que escribo busca resolver un problema concreto. 
+Mi objetivo no es solo desarrollar, sino crear soluciones que agreguen 
+valor real a usuarios y negocios, listas para producción desde el día uno.
+
+---
+
+## 📫 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-campo-744622274)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexpabon3799@gmail.com)
+
+---
+
+## 💼 Disponibilidad
+
+🟢 **Abierto a:**
+- Proyectos freelance
+- Colaboraciones en open source
+- Oportunidades laborales
+- Consultoría técnica
+
+📧 **Contáctame:** alexpabon3799@gmail.com
+
+---
 
 <div align="center">
+  
+### ⚡ "Código que escala, productos que impactan, deploys que funcionan"
 
-**¿Tienes un proyecto desafiante?**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin)](tu-linkedin)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail)](mailto:tu-email)
-
-🟢 Disponible para proyectos freelance y colaboraciones
-
----
-
-*"Código que escala, productos que impactan, deploys que no fallan"*
-
-![](https://komarev.com/ghpvc/?username=tu-usuario&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge)
 
 </div>
