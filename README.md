@@ -53,17 +53,6 @@ se despliegan de forma eficiente en ambientes productivos.
 
 ---
 ---
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
 ## 🎓 Especialización
