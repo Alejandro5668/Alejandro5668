@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alejandro Campo
+# Bienvenido, Soy Alejandro Campo
 
 ## Desarrollador Full Stack | Especialista en Angular & Spring Boot
 
@@ -52,8 +52,6 @@ se despliegan de forma eficiente en ambientes productivos.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
----
----
 
 ## 🎓 Especialización
 
@@ -89,7 +87,7 @@ valor real a usuarios y negocios, listas para producción desde el día uno.
 
 ## 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-campo-744622274)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-campo-744622274)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexpabon3799@gmail.com)
 
 ---
