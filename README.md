@@ -110,9 +110,3 @@ valor real a usuarios y negocios, listas para producción desde el día uno.
 ---
 
 <div align="center">
-  
-### ⚡ "Código que escala, productos que impactan, deploys que funcionan"
-
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge)
-
-</div>
