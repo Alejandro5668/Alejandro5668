@@ -107,6 +107,3 @@ valor real a usuarios y negocios, listas para producción desde el día uno.
 
 📧 **Contáctame:** alexpabon3799@gmail.com
 
----
-
-<div align="center">
