@@ -1,6 +1,6 @@
 # Bienvenido, Soy Alejandro Campo
 
-## Desarrollador Full Stack | Especialista en Angular & Spring Boot
+## Desarrollador Full Stack | Angular & Spring Boot
 
 Construyo soluciones web escalables que resuelven problemas reales de negocio. 
 Mi enfoque combina diseño intuitivo en el frontend con arquitecturas backend 
