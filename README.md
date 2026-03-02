@@ -1,109 +1,102 @@
-# Bienvenido, Soy Alejandro Campo
+<div align="center">
 
-## Desarrollador Full Stack | Angular & Spring Boot
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alejandro%20Campo&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=a78bfa&animation=fadeIn" width="100%" />
 
-Construyo soluciones web escalables que resuelven problemas reales de negocio. 
-Mi enfoque combina diseño intuitivo en el frontend con arquitecturas backend 
-robustas, contenerizadas y listas para despliegue continuo.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-campo744622274)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexpabon3799@gmail.com)
+[![Phone](https://img.shields.io/badge/+57%20310%20548%201182-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573105481182)
 
-## 🚀 Sobre Mí
-
-Desarrollador apasionado por crear productos digitales que generan impacto tangible. 
-No solo escribo código que funciona, diseño sistemas que escalan, se mantienen y 
-se despliegan de forma eficiente en ambientes productivos.
-
-- 🔭 Actualmente trabajando en proyectos e-commerce y plataformas de emprendimiento
-- 🌱 Explorando arquitecturas de microservicios y patrones de diseño avanzados
-- 🐳 Implementando contenedores Docker y pipelines CI/CD
-- 💡 Enfocado en código limpio, buenas prácticas y desarrollo enterprise-grade
-- 📍 Ubicado en Santa Marta, Colombia
-- 💼 Disponible para proyectos freelance y colaboraciones
+</div>
 
 ---
 
-## 💻 Stack Tecnológico
+## 👨‍💻 About Me
+
+```php
+<?php
+
+$developer = [
+    "name"       => "Alejandro Campo",
+    "role"       => "Full Stack Developer",
+    "location"   => "Santa Marta, Colombia 🇨🇴",
+    "experience" => "+1 año en desarrollo de software profesional",
+    "education"  => "Ingeniería de Sistemas — Universidad del Magdalena",
+    "focus"      => ["Backend", "API REST", "Arquitectura de Software", "CI/CD"],
+    "languages"  => ["PHP", "Java", "JavaScript", "TypeScript", "SQL"],
+];
+
+echo "Construyo soluciones escalables, robustas y orientadas al negocio.";
+```
+
+> Desarrollador Full Stack con más de un año de experiencia en el **ciclo completo de desarrollo**: desde el levantamiento de requerimientos con clientes, hasta el despliegue en producción. He construido aplicaciones web robustas para sectores como el gubernamental, portuario y e-commerce, siempre enfocado en rendimiento, estabilidad y calidad del software.
+
+Me especializo en **backend con PHP/Laravel** y **Java/Spring Boot**, con sólida experiencia en frontend usando **Angular y React**. Trabajo con prácticas modernas como CI/CD, control de versiones con Git y administración de entornos productivos. Me caracterizo por convertir necesidades del negocio en soluciones técnicas concretas y mantener una comunicación clara con stakeholders.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Web](https://img.shields.io/badge/Spring_Web-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### DevOps & Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/Laravel%20Forge-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🤖 Herramientas de IA
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
-## 🎓 Especialización
+## 💼 Lo que hago
 
-**Áreas de Dominio:**
-- 🏗️ Arquitectura de aplicaciones web escalables
-- 🔐 Implementación de seguridad con Spring Security y JWT
-- 📊 Diseño y optimización de bases de datos relacionales
-- 🎨 Diseño de interfaces modernas y responsive
-- 🔄 Desarrollo de APIs RESTful robustas
-- 📦 Gestión de estado y componentes reutilizables
-- 🐳 Contenerización de aplicaciones con Docker
-- 🚀 Automatización de despliegues con CI/CD
-
-**Principios que sigo:**
-- Clean Code & SOLID Principles
-- DRY (Don't Repeat Yourself)
-- Arquitectura en capas
-- Infrastructure as Code
-- Testing y documentación
+| 🔧 | Habilidad |
+|----|-----------|
+| ⚙️ **Backend** | Desarrollo de APIs REST, lógica de negocio compleja, integración con servicios externos |
+| 🎨 **Frontend** | Interfaces funcionales, responsivas e integradas correctamente con el backend |
+| 🗄️ **Bases de datos** | Modelado relacional, consultas SQL avanzadas, optimización de rendimiento |
+| 🚀 **DevOps** | CI/CD, despliegues automatizados, administración de servidores en producción |
+| 🤝 **Comunicación** | Levantamiento de requerimientos, presentación de avances y soluciones a stakeholders |
+| 🤖 **AI-Assisted Dev** | Uso diario de **Claude Code**, **Cursor**, **GitHub Copilot** y otros agentes de IA para acelerar desarrollo, debugging, revisión de código y documentación técnica |
 
 ---
 
-## 🌟 Mi Enfoque
 
-> "No se trata solo de hacer que funcione, se trata de hacerlo bien: 
-> escalable, mantenible, desplegable y con impacto real."
-
-Cada línea de código que escribo busca resolver un problema concreto. 
-Mi objetivo no es solo desarrollar, sino crear soluciones que agreguen 
-valor real a usuarios y negocios, listas para producción desde el día uno.
 
 ---
 
-## 📫 Conectemos
+## 📚 Formación & Certificaciones
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-campo-744622274)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexpabon3799@gmail.com)
+- 🎓 **Ingeniería de Sistemas** — Universidad del Magdalena
+- 📘 **Desarrollo Backend con Laravel** — Udemy
+- 🏅 **Claude Code in Action** — Anthropic
 
 ---
 
-## 💼 Disponibilidad
+<div align="center">
 
-🟢 **Abierto a:**
-- Proyectos freelance
-- Colaboraciones en open source
-- Oportunidades laborales
-- Consultoría técnica
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" width="100%" />
 
-📧 **Contáctame:** alexpabon3799@gmail.com
+**"El código limpio no se escribe por accidente — se diseña con intención."**
 
+</div>
