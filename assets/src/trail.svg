@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="1180" viewBox="0 0 880 1180" role="img" aria-label="Siempre hacia adelante: no me quedo quieto. Voy a donde nadie quiere ir: los retos que todos esquivan son los que más me llaman. Tecnología y emprendimiento son mis dos mundos. Construir con IA, a fondo: quiero entenderla por dentro. Hacia dónde voy: fundar mi propia empresa de tecnología, crear productos con IA que cambien cómo trabaja la gente y pase lo que pase, nunca te pares.">
+<style>
+/*FONTS*/
+</style>
+<rect width="880" height="1180" rx="22" fill="#1B1F4B"/>
+
+<path d="M78 89 V 812" stroke="#FF7A6B" stroke-opacity=".6" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 9"/>
+
+<g fill="none" stroke="#1B1F4B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="78" cy="89" r="24" fill="#FFC857" stroke="none"/>
+<g transform="translate(66 77)"><path d="M5 12h13"/><path d="M13 6l6 6-6 6"/></g>
+<circle cx="78" cy="259" r="24" fill="#FF7A6B" stroke="none"/>
+<g transform="translate(66 247)"><path d="M3 19l6-10 4 6 3-4 5 8z"/></g>
+<circle cx="78" cy="429" r="24" fill="#B9A8FF" stroke="none"/>
+<g transform="translate(66 417)"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/><circle cx="12" cy="12" r="3"/></g>
+<circle cx="78" cy="599" r="24" fill="#6EE7C8" stroke="none"/>
+<g transform="translate(66 587)"><circle cx="12" cy="12" r="3"/><circle cx="4.5" cy="5.5" r="2"/><circle cx="19.5" cy="5.5" r="2"/><circle cx="4.5" cy="18.5" r="2"/><circle cx="19.5" cy="18.5" r="2"/><path d="M6 7l4 3M18 7l-4 3M6 17l4-3M18 17l-4-3"/></g>
+<circle cx="78" cy="812" r="24" fill="#F6F1FF" stroke="none"/>
+<g transform="translate(66 800)"><path d="M6 21V4"/><path d="M6 4l12 4-12 4" fill="#FF7A6B"/></g>
+</g>
+
+<g font-family="BG800, sans-serif" font-size="32" letter-spacing="-1" fill="#F6F1FF">
+<text x="128" y="100">Siempre hacia adelante</text>
+<text x="128" y="270">Voy a donde nadie quiere ir</text>
+<text x="128" y="440">Tecnología y emprendimiento</text>
+<text x="128" y="610">Construir con IA, a fondo</text>
+</g>
+
+<g font-family="NR300, Georgia, serif" font-size="21" fill="#DCD6F5">
+<text x="128" y="142">No me quedo quieto. Si algo no sale hoy, mañana lo intento de otra</text>
+<text x="128" y="172">forma. Me mueve la idea de ser un poco mejor que ayer.</text>
+<text x="128" y="312">Los retos que todos esquivan son los que más me llaman. Ahí es</text>
+<text x="128" y="342">donde más aprendo y donde más disfruto.</text>
+<text x="128" y="482">Son mis dos mundos. No solo escribo código: pienso en qué problema</text>
+<text x="128" y="512">resuelve, para quién es y cómo puede crecer.</text>
+<text x="128" y="652">No me basta con usarla: quiero entenderla por dentro. Construyo</text>
+<text x="128" y="682">agentes y sistemas RAG, y estudio IA y Ciencia de Datos para</text>
+<text x="128" y="712">llegar más hondo.</text>
+</g>
+
+<rect x="120" y="772" width="704" height="262" rx="20" fill="#F6F1FF"/>
+<text x="156" y="836" font-family="BG800, sans-serif" font-size="38" letter-spacing="-1.2" fill="#1B1F4B">Hacia dónde voy</text>
+<path transform="translate(158 880)" d="M1 13l6-10 4 6 2-3 4 7z" fill="#E0A82E"/>
+<path transform="translate(158 926)" d="M1 13l6-10 4 6 2-3 4 7z" fill="#FF7A6B"/>
+<path transform="translate(158 972)" d="M1 13l6-10 4 6 2-3 4 7z" fill="#1F9E85"/>
+<g font-family="NR400, Georgia, serif" font-size="22" fill="#1B1F4B">
+<text x="190" y="893">Fundar mi propia empresa de tecnología.</text>
+<text x="190" y="939">Crear productos con IA que cambien cómo trabaja la gente.</text>
+<text x="190" y="985">Pase lo que pase, nunca te pares.</text>
+</g>
+
+<g font-family="NR300, Georgia, serif" font-size="19" fill="#C9C3E6">
+<text x="56" y="1096">Hoy soy Solutions Engineer en KAWAK y estudio en la UNAD. En la mochila llevo</text>
+<text x="56" y="1126"><tspan font-family="BG600, sans-serif" fill="#F6F1FF">Python</tspan>, <tspan font-family="BG600, sans-serif" fill="#F6F1FF">FastAPI</tspan>, <tspan font-family="BG600, sans-serif" fill="#F6F1FF">React</tspan>, <tspan font-family="BG600, sans-serif" fill="#F6F1FF">Next.js</tspan>, <tspan font-family="BG600, sans-serif" fill="#F6F1FF">AWS</tspan>, <tspan font-family="BG600, sans-serif" fill="#F6F1FF">LangGraph</tspan> y <tspan font-family="BG600, sans-serif" fill="#F6F1FF">Bedrock</tspan>.</text>
+</g>
+</svg>

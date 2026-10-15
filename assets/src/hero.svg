@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" role="img" aria-label="Un sendero sale del mar, sube la Sierra Nevada y termina en una bandera en la cima mientras sale el sol. Hola, soy Alejandro Campo. Me gustan los retos que nadie más quiere.">
+<style>
+/*FONTS*/
+.trail{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 3s cubic-bezier(.55,0,.3,1) .4s forwards}
+.sun{transform:translateY(170px);animation:rise 2.6s cubic-bezier(.2,.7,.2,1) 2.4s forwards}
+.flag{transform-box:fill-box;transform-origin:50% 100%;transform:scaleY(0);animation:pop .6s cubic-bezier(.3,1.6,.5,1) 3.3s forwards}
+.glint{opacity:0;animation:fade 1.2s ease-out 3.8s forwards,shimmer 5s ease-in-out 5s infinite}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes rise{to{transform:translateY(0)}}
+@keyframes pop{to{transform:scaleY(1)}}
+@keyframes fade{to{opacity:1}}
+@keyframes shimmer{0%,100%{opacity:1}50%{opacity:.4}}
+@media (prefers-reduced-motion: reduce){.trail,.sun,.flag,.glint{animation:none;stroke-dashoffset:0;transform:none;opacity:1}}
+</style>
+<defs>
+<clipPath id="card"><rect width="880" height="440" rx="22"/></clipPath>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1B1F4B"/><stop offset="1" stop-color="#3D2E68"/></linearGradient>
+<mask id="reveal"><path class="trail" d="M40 404 C 120 396, 160 380, 220 368 S 300 346, 334 336 C 384 326, 366 306, 424 302 S 502 284, 524 266 C 562 248, 544 236, 602 226 S 684 194, 724 164" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/></mask>
+</defs>
+<g clip-path="url(#card)">
+<rect width="880" height="440" fill="url(#sky)"/>
+<g class="sun"><circle cx="770" cy="196" r="110" fill="#FFC857" opacity=".12"/><circle cx="770" cy="196" r="72" fill="#FF7A6B" opacity=".32"/><circle cx="770" cy="196" r="52" fill="#FFC857"/></g>
+<path d="M420 440 L 520 302 L 600 264 L 650 292 L 700 226 L 730 242 L 806 182 L 880 250 V 440 Z" fill="#2C2766"/>
+<path d="M0 440 V 396 C 120 386, 220 344, 320 330 C 420 316, 520 266, 600 226 L 724 164 L 792 228 C 832 258, 860 276, 880 286 V 440 Z" fill="#201B52"/>
+<rect y="408" width="880" height="32" fill="#141838"/>
+<g class="glint" stroke-linecap="round" stroke-width="2.5"><path d="M60 420h70" stroke="#FFC857"/><path d="M150 428h40" stroke="#FF7A6B"/><path d="M230 420h56" stroke="#FFC857"/></g>
+<path d="M40 404 C 120 396, 160 380, 220 368 S 300 346, 334 336 C 384 326, 366 306, 424 302 S 502 284, 524 266 C 562 248, 544 236, 602 226 S 684 194, 724 164" fill="none" stroke="#FF7A6B" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 9" mask="url(#reveal)"/>
+<circle cx="40" cy="404" r="5" fill="#FF7A6B"/>
+<g class="flag"><path d="M724 166 V 124" stroke="#F6F1FF" stroke-width="2.5" stroke-linecap="round"/><path d="M725 124 L 754 133 L 725 142 Z" fill="#FF7A6B"/></g>
+<text x="48" y="74" fill="#B9A8FF" font-family="BG400, sans-serif" font-size="20">Hola, soy Alejandro Campo</text>
+<text x="45" y="140" fill="#F6F1FF" font-family="BG800, sans-serif" font-size="56" letter-spacing="-2">Me gustan los retos</text>
+<text x="45" y="200" fill="#F6F1FF" font-family="BG800, sans-serif" font-size="56" letter-spacing="-2">que nadie más quiere.</text>
+<text x="48" y="246" fill="#DCD6F5" font-family="NRi, Georgia, serif" font-size="22">Emprendedor de corazón, constructor con IA.</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img" aria-label="¿Tienes un reto que nadie quiere tomar? Cuéntamelo. Es justo lo que me gusta.">
+<style>
+/*FONTS*/
+</style>
+<defs><clipPath id="card"><rect width="880" height="280" rx="22"/></clipPath></defs>
+<g clip-path="url(#card)">
+<rect width="880" height="280" fill="#1B1F4B"/>
+<g transform="translate(560 120) scale(1.15)">
+<circle cx="210" cy="70" r="34" fill="#FFC857"/>
+<path d="M40 140 L 140 52 L 176 82 L 210 58 L 290 126 V 140 Z" fill="#2C2766"/>
+<path d="M140 52 V 22" stroke="#F6F1FF" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M141 22 L 164 29 L 141 36 Z" fill="#FF7A6B"/>
+</g>
+<text x="56" y="104" font-family="BG800, sans-serif" font-size="46" letter-spacing="-1.5" fill="#F6F1FF">¿Tienes un reto que</text>
+<text x="56" y="156" font-family="BG800, sans-serif" font-size="46" letter-spacing="-1.5" fill="#F6F1FF">nadie quiere tomar?</text>
+<text x="56" y="210" font-family="NRi, Georgia, serif" font-size="24" fill="#DCD6F5">Cuéntamelo. Es justo lo que me gusta.</text>
+</g>
+</svg>
