@@ -38,8 +38,8 @@ FACES = {
     "MS600": ("Mona Sans", "wght@600"),
 }
 
-# Contribution heatmap: empty, then lavender to pink as activity grows.
-SHADES = ["#1A1820", "#3E3560", "#7A68B0", "#C69BD6", "#F5AEC1"]
+# Isometric chart tones (RGB): empty, then lavender to pink as activity grows.
+SHADES = [(0x22, 0x1F, 0x2B), (0x4B, 0x3F, 0x75), (0x7A, 0x68, 0xB0), (0xC6, 0x9B, 0xD6), (0xF5, 0xAE, 0xC1)]
 MONTHS = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
 
 UA = (
@@ -93,7 +93,7 @@ def activity() -> dict:
     return payload["data"]["user"]["contributionsCollection"]
 
 
-def shade(count: int) -> str:
+def shade(count: int) -> tuple:
     if count == 0:
         return SHADES[0]
     if count <= 5:
@@ -103,6 +103,37 @@ def shade(count: int) -> str:
     if count <= 50:
         return SHADES[3]
     return SHADES[4]
+
+
+def isometric(weeks: list) -> str:
+    """One isometric column per day; height grows with the square root of
+    the count so a single huge day does not flatten the rest."""
+    unit, footprint, ox, oy = 9.4, 0.82, 120, 120
+    days = []
+    for col, week in enumerate(weeks):
+        for day in week["contributionDays"]:
+            row = date.fromisoformat(day["date"]).isoweekday() % 7
+            days.append((col, row, day["contributionCount"]))
+    days.sort(key=lambda d: (d[0] + d[1], d[0]))  # paint back to front
+
+    def poly(points, color, k):
+        pts = " ".join(f"{x:.1f},{y:.1f}" for x, y in points)
+        fill = "#%02x%02x%02x" % tuple(round(v * k) for v in color)
+        return f'<polygon points="{pts}" fill="{fill}"/>'
+
+    out = []
+    for col, row, count in days:
+        x = ox + (col - row) * unit
+        y = oy + (col + row) * unit / 2
+        h = 1.5 if count == 0 else 4 + count ** 0.5 * 6
+        a = unit * footprint
+        b = a / 2
+        top, right, bottom, left = (x, y - h), (x + a, y + b - h), (x, y + a - h), (x - a, y + b - h)
+        color = shade(count)
+        out.append(poly([left, bottom, (x, y + a), (x - a, y + b)], color, 0.72))
+        out.append(poly([bottom, right, (x + a, y + b), (x, y + a)], color, 0.55))
+        out.append(poly([top, right, bottom, left], color, 1))
+    return "".join(out)
 
 
 def month_label(day: str) -> str:
@@ -125,19 +156,8 @@ def activity_values() -> dict:
         streak = streak + 1 if c else 0
         best_streak = max(best_streak, streak)
 
-    # 53 columns x 7 rows inside the 848 px wide pane, 16 px pitch.
-    pitch, size, left, top = 16, 13, 22, 880
-    cells = []
-    for col, week in enumerate(weeks[-53:]):
-        for day in week["contributionDays"]:
-            row = date.fromisoformat(day["date"]).isoweekday() % 7
-            cells.append(
-                f'<rect x="{left + col * pitch}" y="{top + row * pitch}" width="{size}" '
-                f'height="{size}" rx="2" fill="{shade(day["contributionCount"])}"/>'
-            )
-
     return {
-        "HEATMAP": "".join(cells),
+        "ISOMETRIC": isometric(weeks[-53:]),
         "FROM": month_label(days[0]["date"]),
         "TO": month_label(days[-1]["date"]),
         "CONTRIB": thousands(data["contributionCalendar"]["totalContributions"]),
@@ -154,7 +174,7 @@ def values_for(svg: str, cache: dict) -> dict:
     if "PORTRAIT" in keys and "PORTRAIT" not in cache:
         data = base64.b64encode((SRC / "portrait.jpg").read_bytes()).decode()
         cache["PORTRAIT"] = f"data:image/jpeg;base64,{data}"
-    if keys - {"PORTRAIT"} and "HEATMAP" not in cache:
+    if keys - {"PORTRAIT"} and "ISOMETRIC" not in cache:
         cache.update(activity_values())
     return cache
 
