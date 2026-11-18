@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1168" viewBox="0 0 900 1168" role="img" aria-label="Terminal kitty. Desarrollo agentes de IA y los despliego en AWS. IA: diseño y orquestación de agentes. Frameworks: LangChain, LangGraph. Nube: AWS, Amazon Bedrock. Backend: Python, Node.js. Frontend: Next.js. Entorno: Linux, kitty y la terminal. Actividad en GitHub del último año: {{CONTRIB}} contribuciones, {{COMMITS}} commits, {{PRS}} pull requests.">
+<style>
+/*FONTS*/
+text{white-space:pre}
+.typing{transform:translateX(182px);animation:type .9s steps(23) .5s both}
+.r{animation:in .25s ease-out both}
+.cur{animation:blink 1s steps(1) 2.4s infinite}
+@keyframes type{from{transform:translateX(0)}to{transform:translateX(182px)}}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.typing{animation:none;transform:translateX(182px)}.r{animation:none}.cur{animation:none}}
+</style>
+<defs>
+<clipPath id="win"><rect width="900" height="1168" rx="12"/></clipPath>
+<linearGradient id="tabA" x1="0" x2="1"><stop offset="0" stop-color="#0b0b0b"/><stop offset=".14" stop-color="#F5AEC1"/><stop offset=".86" stop-color="#F5AEC1"/><stop offset="1" stop-color="#0b0b0b"/></linearGradient>
+<linearGradient id="tabB" x1="0" x2="1"><stop offset="0" stop-color="#0b0b0b"/><stop offset=".16" stop-color="#1E1B29"/><stop offset=".84" stop-color="#1E1B29"/><stop offset="1" stop-color="#0b0b0b"/></linearGradient>
+<linearGradient id="tabC" x1="0" x2="1"><stop offset="0" stop-color="#0b0b0b"/><stop offset=".16" stop-color="#17202A"/><stop offset=".84" stop-color="#17202A"/><stop offset="1" stop-color="#0b0b0b"/></linearGradient>
+</defs>
+<g clip-path="url(#win)">
+<rect width="900" height="1168" fill="#0b0b0b"/>
+
+<!-- titlebar -->
+<line x1="0" y1="38.5" x2="900" y2="38.5" stroke="#1c1c1c"/>
+<text x="450" y="24" text-anchor="middle" font-family="MS600, sans-serif" font-size="13" fill="#dddddd">alejandro@campo: ~</text>
+<g fill="#262626"><circle cx="814" cy="19" r="11"/><circle cx="844" cy="19" r="11"/><circle cx="874" cy="19" r="11"/></g>
+<g stroke="#dddddd" stroke-width="1.4" fill="none"><path d="M809 19h10"/><rect x="840" y="15" width="8" height="8" stroke-width="1.2"/><path d="M870 15l8 8M878 15l-8 8"/></g>
+
+<!-- split 1 (focused) -->
+<rect x="4.5" y="42.5" width="891" height="787" fill="none" stroke="#F5AEC1"/>
+<text x="22" y="72" font-family="JM400, monospace" font-size="13" fill="#dddddd"><tspan fill="#9CCBF2">~/perfil</tspan> <tspan fill="#8a8a8a">on</tspan> <tspan fill="#C3B1F5">main</tspan> <tspan fill="#F5AEC1">❯</tspan> <tspan fill="#A6E3C8">kitten</tspan> icat <tspan text-decoration="underline">retrato.png</tspan></text>
+<rect class="typing" x="170" y="58" width="184" height="20" fill="#0b0b0b"/>
+<image class="r" style="animation-delay:1.5s" x="22" y="84" width="856" height="478" preserveAspectRatio="xMidYMid slice" href="{{PORTRAIT}}"/>
+<g class="r" style="animation-delay:1.8s"><text x="22" y="588" font-family="JM400, monospace" font-size="13" fill="#dddddd"><tspan fill="#9CCBF2">~/perfil</tspan> <tspan fill="#8a8a8a">on</tspan> <tspan fill="#C3B1F5">main</tspan> <tspan fill="#F5AEC1">❯</tspan> <tspan fill="#A6E3C8">whoami</tspan></text></g>
+<g class="r" style="animation-delay:2s"><text x="22" y="624" font-family="JM500, monospace" font-size="20" fill="#ffffff">Desarrollo agentes de IA y los despliego en AWS.</text></g>
+<g class="r" style="animation-delay:2.2s" font-family="JM400, monospace" font-size="13" fill="#dddddd">
+<text x="22" y="658"><tspan fill="#F5AEC1">ia</tspan><tspan x="130">diseño y orquestación de agentes</tspan></text>
+<text x="22" y="678"><tspan fill="#C3B1F5">frameworks</tspan><tspan x="130">LangChain, LangGraph</tspan></text>
+<text x="22" y="698"><tspan fill="#9CCBF2">nube</tspan><tspan x="130">AWS, Amazon Bedrock</tspan></text>
+<text x="22" y="718"><tspan fill="#A6E3C8">backend</tspan><tspan x="130">Python, Node.js</tspan></text>
+<text x="22" y="738"><tspan fill="#F3DC97">frontend</tspan><tspan x="130">Next.js</tspan></text>
+<text x="22" y="758"><tspan fill="#dddddd">entorno</tspan><tspan x="130">Linux, kitty y la terminal</tspan></text>
+</g>
+<g class="r" style="animation-delay:2.3s"><rect x="22" y="774" width="28" height="14" fill="#F5AEC1"/><rect x="50" y="774" width="28" height="14" fill="#C3B1F5"/><rect x="78" y="774" width="28" height="14" fill="#9CCBF2"/><rect x="106" y="774" width="28" height="14" fill="#A6E3C8"/><rect x="134" y="774" width="28" height="14" fill="#F3DC97"/><rect x="162" y="774" width="28" height="14" fill="#dddddd"/></g>
+<g class="r" style="animation-delay:2.4s"><text x="22" y="814" font-family="JM400, monospace" font-size="13" fill="#dddddd"><tspan fill="#9CCBF2">~/perfil</tspan> <tspan fill="#8a8a8a">on</tspan> <tspan fill="#C3B1F5">main</tspan> <tspan fill="#F5AEC1">❯</tspan></text><rect class="cur" x="171" y="801" width="8" height="17" fill="#cccccc"/></g>
+
+<!-- split 2: GitHub activity -->
+<rect x="4.5" y="834.5" width="891" height="301" fill="none" stroke="#333333"/>
+<text x="22" y="864" font-family="JM400, monospace" font-size="13" fill="#dddddd"><tspan fill="#9CCBF2">~/perfil</tspan> <tspan fill="#8a8a8a">on</tspan> <tspan fill="#C3B1F5">main</tspan> <tspan fill="#F5AEC1">❯</tspan> <tspan fill="#A6E3C8">git</tspan> log <tspan fill="#C3B1F5">--since=</tspan><tspan fill="#F3DC97">"1 year ago"</tspan> <tspan fill="#C3B1F5">--all</tspan></text>
+<g>{{HEATMAP}}</g>
+<g font-family="JM400, monospace" font-size="12" fill="#8a8a8a">
+<text x="22" y="1012">{{FROM}}</text>
+<text x="870" y="1012" text-anchor="end">{{TO}}</text>
+<text x="382" y="1012">menos</text>
+<text x="520" y="1012">más</text>
+</g>
+<g><rect x="428" y="1002" width="10" height="10" rx="2" fill="#1A1820"/><rect x="446" y="1002" width="10" height="10" rx="2" fill="#3E3560"/><rect x="464" y="1002" width="10" height="10" rx="2" fill="#7A68B0"/><rect x="482" y="1002" width="10" height="10" rx="2" fill="#C69BD6"/><rect x="500" y="1002" width="10" height="10" rx="2" fill="#F5AEC1"/></g>
+<g font-family="JM400, monospace" font-size="13" fill="#dddddd">
+<text x="72" y="1052" text-anchor="end" font-family="JM700, monospace" font-weight="700" fill="#F5AEC1">{{CONTRIB}}</text><text x="86" y="1052">contribuciones en el último año</text>
+<text x="72" y="1072" text-anchor="end" font-family="JM700, monospace" font-weight="700" fill="#C3B1F5">{{COMMITS}}</text><text x="86" y="1072">commits</text>
+<text x="72" y="1092" text-anchor="end" font-family="JM700, monospace" font-weight="700" fill="#9CCBF2">{{PRS}}</text><text x="86" y="1092">pull requests</text>
+<text x="478" y="1052" text-anchor="end" font-family="JM700, monospace" font-weight="700" fill="#A6E3C8">{{ACTIVE}}</text><text x="492" y="1052">días activos</text>
+<text x="478" y="1072" text-anchor="end" font-family="JM700, monospace" font-weight="700" fill="#F3DC97">{{STREAK}}</text><text x="492" y="1072">días, racha más larga</text>
+<text x="478" y="1092" text-anchor="end" font-family="JM700, monospace" font-weight="700" fill="#dddddd">{{BEST}}</text><text x="492" y="1092">contribuciones, mejor día</text>
+</g>
+<text x="22" y="1122" font-family="JM400, monospace" font-size="12" fill="#8a8a8a">Incluye repositorios privados. Se actualiza cada día.</text>
+
+<!-- tab bar, kitty "fade" style -->
+<rect x="4" y="1140" width="104" height="24" fill="url(#tabA)"/>
+<text x="56" y="1156" text-anchor="middle" font-family="JM700i, monospace" font-weight="700" font-style="italic" font-size="12" fill="#000000">1 perfil</text>
+<rect x="110" y="1140" width="92" height="24" fill="url(#tabB)"/>
+<text x="156" y="1156" text-anchor="middle" font-family="JM400, monospace" font-size="12" fill="#C3B1F5">2 nvim</text>
+<rect x="204" y="1140" width="84" height="24" fill="url(#tabC)"/>
+<text x="246" y="1156" text-anchor="middle" font-family="JM400, monospace" font-size="12" fill="#9CCBF2">3 aws</text>
+</g>
+<rect x=".5" y=".5" width="899" height="1167" rx="12" fill="none" stroke="#262626"/>
+</svg>
