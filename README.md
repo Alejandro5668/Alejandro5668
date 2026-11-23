@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal kitty con mi retrato. Desarrollo agentes de IA y los despliego en AWS. Stack: LangChain, LangGraph, AWS, Amazon Bedrock, Python, Node.js, Next.js y Linux. Debajo, mi actividad en GitHub del último año." />
+<img src="./assets/terminal.svg" width="100%" alt="Terminal con mi retrato. Desarrollo agentes de IA y los despliego en AWS. Stack: LLM agents, RAG, MCP servers, Python, TypeScript, LangGraph, FastAPI, React, Next.js, AWS, Amazon Bedrock, Terraform y Docker. Me gusta Linux. Debajo, mi actividad en GitHub del último año." />
 
 <br /><br />
 
